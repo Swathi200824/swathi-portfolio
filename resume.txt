@@ -1,0 +1,36 @@
+==================================================
+                    M. SWATHI
+==================================================
+Email: swathi@example.com | Phone: +91 XXXXXXXXXX
+GitHub: github.com/swathi
+
+--------------------------------------------------
+OBJECTIVE
+--------------------------------------------------
+Motivated and detail-oriented technical enthusiast and aspiring developer with a strong foundation in programming, data structures, and software development. Eager to build innovative applications and solve real-world problems.
+
+--------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------
+* Programming Languages: C, C++, Python, Java
+* Core Concepts: Object-Oriented Programming (OOPs), Database Management Systems (DBMS)
+* Tools & Technologies: Git, GitHub, Linux
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+1. Determining ETA of Railway Cochin Trains
+   * Developed a system/algorithm to calculate and predict the Estimated Time of Arrival (ETA) for trains operating in Cochin.
+   * Utilized data processing logic to improve prediction accuracy for railway commuters.
+
+2. The Hidden Architecture of Student Life Using PCA and SVD
+   * Implemented data analysis techniques using Principal Component Analysis (PCA) and Singular Value Decomposition (SVD).
+   * Uncovered latent patterns, trends, and structures within student life and behavioral datasets.
+
+3. Precise Exam Re-Evaluation Process for Students
+   * Built a robust application leveraging Object-Oriented Programming (OOPs) in Java and Database Management Systems (DBMS).
+   * Streamlined and automated the academic exam re-evaluation workflow to ensure accuracy, transparency, and secure data handling.
+
+4. Hotel Management System
+   * Designed and implemented a comprehensive console-based Hotel Management System using the C language.
+   * Handled room bookings, customer details, and billing operations efficiently using file handling and modular programming structures in C.

@@ -105,7 +105,7 @@ function getBotResponse(input) {
 
     // 5. Contact Info
     if (input.includes('contact') || input.includes('email') || input.includes('reach') || input.includes('github') || input.includes('linkedin')) {
-        return "You can contact M. Swathi via email at swathi@example.com or visit her GitHub profile directly through the links provided in the Contact section.";
+        return "You can connect with M. Swathi on GitHub (github.com/Swathi200824) or LinkedIn, or reach out directly via the Contact section on this page!";
     }
 
     // 6. Greetings / General Intro (Checked Last)
